@@ -1,0 +1,21 @@
+{
+    "name": "batsirai/cli",
+    "description": "CLI library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Batsirai\\Cli\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Batsirai Muchareva",
+            "email": "admin@batsirai.dev",
+            "homepage": "https://batsirai.dev",
+            "role": "Software Engineer"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
