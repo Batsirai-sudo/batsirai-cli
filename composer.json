@@ -16,6 +16,6 @@
             "role": "Software Engineer"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {}
 }
